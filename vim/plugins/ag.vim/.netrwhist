@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/nj/Projects/change-el-capitan-wallpaper-on-vim-file-save'
+let g:netrw_dirhist_2='/Users/nj/Projects/Subspace/telegraph'
+let g:netrw_dirhist_3='/Users/nj/Projects/Subspace/telegraph/app'
+let g:netrw_dirhist_4='/Users/nj/Projects/Subspace/telegraph/app/services'
+let g:netrw_dirhist_5='/Users/nj/Projects/Subspace/telegraph/app/services/genesis'
+let g:netrw_dirhist_6='/Users/nj/Projects/Subspace/telegraph'
+let g:netrw_dirhist_7='/Users/nj/Projects/Subspace/telegraph/app/types/genesis'
+let g:netrw_dirhist_8='/Users/nj/Projects/Subspace/telegraph'

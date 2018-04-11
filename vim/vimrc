@@ -1,0 +1,16 @@
+set runtimepath+=~/.vim
+
+""""""""""""""""""""""""""""""
+" > Load pathogen paths
+""""""""""""""""""""""""""""""
+call pathogen#infect('~/.vim/plugins/{}')
+call pathogen#helptags()
+
+""""""""""""""""""""""""""""""
+" > Source vimrcs
+""""""""""""""""""""""""""""""
+source ~/.vim/vimrcs/general.vim
+source ~/.vim/vimrcs/filetypes.vim
+source ~/.vim/vimrcs/plugins.vim
+
+
